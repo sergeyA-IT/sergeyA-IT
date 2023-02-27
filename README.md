@@ -38,7 +38,3 @@
 <!-- GiHub stats -->
 [![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=FortyDust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FortyDust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
