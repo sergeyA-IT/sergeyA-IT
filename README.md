@@ -26,7 +26,7 @@
 ![Vmware](https://img.shields.io/badge/vmware-090909?style=for-the-badge&logo=vmware)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=bdf75e)
-![PyCharm](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL)
+![PyCharm](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL)
 
 <hr>
 
@@ -37,4 +37,6 @@
 
 <!-- GiHub stats -->
 [![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=FortyDust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FortyDust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
