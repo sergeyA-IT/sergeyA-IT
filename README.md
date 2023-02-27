@@ -26,7 +26,10 @@
 ![Vmware](https://img.shields.io/badge/vmware-090909?style=for-the-badge&logo=vmware)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=bdf75e)
-![PyCharm](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
+![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
 
 <hr>
 
