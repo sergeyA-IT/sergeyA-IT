@@ -13,6 +13,8 @@
 [Bug report](https://github.com/FortyDust/bug_report)
 
 [Sql query examples](https://github.com/FortyDust/sql_query_examples)
+
+[Miro board examples](https://github.com/FortyDust/miro_board_example)
 <hr>
 
 <!-- Tools -->
@@ -30,6 +32,7 @@
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
+![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=FFFF66)
 
 <hr>
 
